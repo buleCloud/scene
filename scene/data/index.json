@@ -1,0 +1,57 @@
+    {
+    "hallId": "1",
+    "hallName": "生活馆",
+    "sceneInfo":{
+        "sceneInfo": [
+        {
+            "anchors": [
+                {
+                    "anchorName": "笔记",
+                    "anchorPositionX": "440",
+                    "anchorPositionY": "240",
+                    "categoryId": "cat10000071",
+                    "id": "1",
+                    "recommendCondition": "",
+                    "recommendMode": "2"
+                },
+                {
+                    "anchorName": "手机",
+                    "anchorPositionX": "640",
+                    "anchorPositionY": "140",
+                    "categoryId": "cat10000070",
+                    "id": "2",
+                    "recommendCondition": "",
+                    "recommendMode": "1"
+                }
+            ],
+            "id": "11010200",
+            "imgUrl": "http://img10.360buyimg.com/jdcms/s944x568_jfs/t817/87/177422711/430341/3dcc7db2/550792f6N08c07e9a.jpg",
+            "sceneName": "卧室"
+        },
+        {
+            "anchors": [
+                {
+                    "anchorName": "电视",
+                    "anchorPositionX": "440",
+                    "anchorPositionY": "240",
+                    "categoryId": "cat10000236",
+                    "id": "3",
+                    "recommendCondition": "",
+                    "recommendMode": "2"
+                },
+                {
+                    "anchorName": "台灯",
+                    "anchorPositionX": "640",
+                    "anchorPositionY": "140",
+                    "categoryId": "cat10000235",
+                    "id": "4",
+                    "recommendCondition": "",
+                    "recommendMode": "2"
+                }
+            ],
+            "id": "11010201",
+            "imgUrl": "http://img10.360buyimg.com/jdcms/s944x568_jfs/t817/87/177422711/430341/3dcc7db2/550792f6N08c07e9a.jpg",
+            "sceneName": "客厅"
+        }]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "projectName": "scene",
+    "projectPath": "gmpro/2.0.0/scene/scene/1.1.0",
+    "projectFolder": "css|js",
+    "projectApp": "image",
+    "tplPath": "WEB-INF/template",
+    "tplFolder": "html",
+    "tplApp": "scene-web",
+    "svnPath": {
+        "trunk": "https://repo.ds.gome.com.cn:8443/svn/atg_poc/30_Coding/NewDevMode/trunk/gome-gfe/scene-web",
+        "branch": "https://repo.ds.gome.com.cn:8443/svn/atg_poc/30_Coding/NewDevMode/branches/gome-gfe/scene-web",
+        "tag": "https://repo.ds.gome.com.cn:8443/svn/atg_poc/30_Coding/NewDevMode/tags/gome-gfe/scene-web"
+    }
+}
